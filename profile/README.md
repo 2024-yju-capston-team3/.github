@@ -1,5 +1,9 @@
 # オクラ
 
+`ミノリ`はRAGを導入したオンライン授業プラットフォームです。 <br/>
+
+## チーム構成
+
 |                                         [キム・ユミン](https://github.com/yuminn-k)                                          |                                         [パク・ジョンミン](https://github.com/dorimu0)                                          |                                         [ソク・ジンソク](https://github.com/Lainari)                                          |                                         [カン・ジュウォン](https://github.com/Z00One)                                    |                                         [キム・ボムチャン](https://github.com/Regulus0811)                                          
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/55650732?v=4" width=400px alt="ユミン"/> | <img src="https://avatars.githubusercontent.com/u/121004915?v=4" width=400px alt="ジョンミン"/> | <img src="https://avatars.githubusercontent.com/u/108247620?v=4" width=400px alt="ジンソク"/> | <img src="https://avatars.githubusercontent.com/u/102473964?v=4" width=400px alt="ジュウォン"/> | <img src="https://avatars.githubusercontent.com/u/121006576?v=4" width=400px alt="ボクチャン"> | 
